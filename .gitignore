@@ -1,0 +1,15 @@
+# Streamlit secrets (API Keys)
+.streamlit/secrets.toml
+
+# 包含密钥的旧脚本（即使本地有，也不上传）
+friend_circle_agent.py
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# PyCharm 配置
+.idea/
+
+# 环境变量文件
+.env
